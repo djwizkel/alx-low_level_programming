@@ -1,3 +1,4 @@
+   @@ -0,0c+1,12 @@
 1  #include <stdio.h>
 2  /**
 3  * main - main block
